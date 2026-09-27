@@ -1,0 +1,6 @@
+{
+  "name": "AI Agriculture Assistant",
+  "description": "Smart farming intelligence for better crops, better decisions and a better tomorrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
